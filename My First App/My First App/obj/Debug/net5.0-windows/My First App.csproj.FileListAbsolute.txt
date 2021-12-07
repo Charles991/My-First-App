@@ -1,0 +1,18 @@
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\My First App.exe
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\My First App.deps.json
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\My First App.runtimeconfig.json
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\My First App.runtimeconfig.dev.json
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\My First App.dll
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\ref\My First App.dll
+C:\Users\Charles\Documents\Repos\My First App\My First App\bin\Debug\net5.0-windows\My First App.pdb
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My_First_App.Form1.resources
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.csproj.GenerateResource.cache
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.AssemblyInfo.cs
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.dll
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\ref\My First App.dll
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.pdb
+C:\Users\Charles\Documents\Repos\My First App\My First App\obj\Debug\net5.0-windows\My First App.genruntimeconfig.cache
